@@ -1,0 +1,22 @@
+.box{
+	width: 1000px;
+	margin: auto;
+}
+.getout{
+	float: right;
+}
+.tabOn{
+	color: red;
+	font-weight: bold;
+}
+
+.login-form {
+  max-width: 300px;
+  margin: 20px auto;
+}
+.login-form-forgot {
+  float: right;
+}
+.login-form-button {
+  width: 100%;
+}
